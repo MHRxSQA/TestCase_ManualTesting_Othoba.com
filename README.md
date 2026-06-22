@@ -17,16 +17,16 @@
  # Summary
 
 Below is a summary of all the tasks completed for Othoba.com, presented in a tabular format.
- 
-| :-------------------------- |
-| Test Case Summary           |
-| Test Plan                   |
-| Test Case (48)              |
-| Bug Report(2)               | 
-| Test Report                 | 
-| Test metrics                |
-| Mind Map                    |
 
+| Test Documentation |
+|--------------------|
+| Test Case Summary  |
+| Test Plan          |
+| Test Case (48)     |
+| Bug Report (2)     |
+| Test Report        |
+| Test Metrics       |
+| Mind Map           |
 
 ### Test Plan
 
