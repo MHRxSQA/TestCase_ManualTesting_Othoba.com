@@ -11,14 +11,13 @@
   - Test Metrics
 
  # Introduction 
- This document provides a detailed overview of the processes involved in creating Test Cases, Test Case Reports, Bug Reports, Test Metrics, and Mind Maps for the 'https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Testing_Manual_com_Test_Case_Othoba_v1.8.zip' website.
- The tasks are done for sign-up and sign-in features for Othoba.com
+ This document provides a detailed overview of the processes involved in creating Test Cases, Test Case Reports, Bug Reports, Test Metrics, and Mind Maps for the Othoba.com website.
+ The tasks are done for sign-up and sign-in features.
 
  # Summary
 
 Below is a summary of all the tasks completed for Othoba.com, presented in a tabular format.
-
-| https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Testing_Manual_com_Test_Case_Othoba_v1.8.zip |  
+ 
 | :-------------------------- |
 | Test Case Summary           |
 | Test Plan                   |
